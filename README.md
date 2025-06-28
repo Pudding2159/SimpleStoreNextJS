@@ -1,8 +1,14 @@
-### This is the [Next.js](https://nextjs.org/) Project “Simple Store”
-
 ## Context  
-Created by Mykyta Makhorin.  
 Simple Store implements a basic online shop using **Next.js** and the **Fake Store API** for product data.
+
+### Store Catalog Page
+
+![Store catalog page](/project_image/image.png)
+
+### Store Product Page
+
+![Product page](/project_image/image%20copy.png)
+
 
 ## Features
 
@@ -20,17 +26,6 @@ Simple Store implements a basic online shop using **Next.js** and the **Fake Sto
   - **Responsive design** optimized for mobile, tablet, and desktop  
   - Built with [Tailwind CSS](https://tailwindcss.com/) for utility-first styling  
   - Icons provided by [Font Awesome](https://fontawesome.com/)
-
-
-## Illustrations
-
-### Store Catalog Page
-
-![Store catalog page](/project_image/image.png)
-
-### Store Product Page
-
-![Product page](/project_image/image%20copy.png)
 
 
 ```bash
