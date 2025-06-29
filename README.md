@@ -1,5 +1,5 @@
 ## Context  
-Simple Store implements a basic online shop using **Next.js** and the **Fake Store API** for product data.
+Simple Store implements a basic online shop using **Next.js** and the **Fake Store API** for product data. 
 
 ### Store Catalog Page
 
