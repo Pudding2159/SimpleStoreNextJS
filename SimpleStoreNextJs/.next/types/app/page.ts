@@ -1,4 +1,4 @@
-// File: C:\Users\nikit\Desktop\GymBeam (1)\SimpleStore\app\page.js
+// File: D:\SimpleStoreNextJS\SimpleStoreNextJs\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

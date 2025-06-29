@@ -1,4 +1,4 @@
-// File: C:\Users\nikit\Desktop\GymBeam (1)\SimpleStore\app\layout.js
+// File: D:\SimpleStoreNextJS\SimpleStoreNextJs\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
